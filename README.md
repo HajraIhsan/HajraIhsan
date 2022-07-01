@@ -2,7 +2,7 @@
 
 - I’m interested in Web Development, WordPress and UI/UX Design. 👩‍💻
 - I'm a Frontend developer but very soon you'll call me Full stack developer 😉
-- I create content on tech twitter [codewithhajra](https://twitter.com/codewithhajra)
+- I create content on tech twitter around web development  [codewithhajra](https://twitter.com/codewithhajra)
 
 <br>
 
